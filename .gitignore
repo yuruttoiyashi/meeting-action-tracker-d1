@@ -29,3 +29,8 @@ dist-ssr
 !.dev.vars.example
 .env*
 !.env.example
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+*.log
